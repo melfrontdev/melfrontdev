@@ -11,7 +11,7 @@
 ## Linguagens que eu uso no meu dia:
 <p>
   
-
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=melfrontdev&layout=compact&theme=dracula)
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><p>
   <p>
@@ -23,6 +23,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" /><p>
   
   
+
 
 </div><br/>
 
