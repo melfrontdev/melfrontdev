@@ -1,9 +1,15 @@
 ## Hi, i'm Melissa Gomes 🖐️
 ## Front-end Developer 
+
+
+
 <br>
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/melissa-a-b85b9b158/)](https://www.linkedin.com/in/melissa-a-b85b9b158/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mgthomaz_ti/)
+
+
+## Tecnologias
 
 
 
@@ -11,7 +17,7 @@
 ## Linguagens que eu uso no meu dia:
 <p>
   
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=melfrontdev&layout=compact&theme=dracula)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=melfrontdev&layout=compact)
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /><p>
   <p>
